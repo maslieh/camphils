@@ -1,0 +1,276 @@
+#: locale=en
+
+## Tour
+
+### Description
+tour.description = Virtual Tour Camp Hills
+
+### Title
+tour.name = Camp Hills 01
+
+## Skin
+
+### Button
+Button_7DBCA382_7065_343F_41DB_48D975E3D9EC.label = PANORAMA LIST
+Button_7DBCA382_7065_343F_41DB_48D975E3D9EC_mobile.label = PANORAMA LIST
+Button_F01877F7_C7BF_4BBD_41BB_741602CF73DC.label = BACK
+Button_F01877F7_C7BF_4BBD_41BB_741602CF73DC_mobile.label = BACK
+
+### Multiline Text
+HTMLText_7DB2E382_7065_343F_41C2_951F708170F1.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Montserrat';">Camp Hills Eco Stay</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f3a22e;"><A HREF="https://camphills.com/" TARGET="_blank" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="font-family:'Montserrat';">www.camphills.com</SPAN></A></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-family:'Montserrat';">Jl. Raya Gn. Salak Endah No.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-family:'Montserrat';">09, RT.02, Gn. Sari, Pamijahan, Bogor, Jawa Barat 16810</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-family:'Montserrat';">Call: +62 (21) 6310229 / +6289501141901 info@camphills.com</SPAN></SPAN></DIV></div>
+HTMLText_7DB2E382_7065_343F_41C2_951F708170F1_mobile.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_DC317147_C473_2089_41E1_A2A60EF4B565.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 9px rgba(0,0,0,1);text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:4.37vmin;font-family:'Montserrat';">Camp Hills Eco Stay</SPAN></SPAN></DIV></div>
+HTMLText_DC319146_C473_208B_41B4_BDAD25BF866B.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.97vmin;font-family:'Montserrat Black';">Virtual Tour 360</SPAN></SPAN></DIV></div>
+
+## Media
+
+### Title
+album_991728AA_AC9A_C168_41C5_D9A2ACB93941.label = Photo Album Pemancingan
+album_991728AA_AC9A_C168_41C5_D9A2ACB93941_0.label = 04f65a14-f815-471a-9760-f6b2f03bfadb
+album_991728AA_AC9A_C168_41C5_D9A2ACB93941_1.label = pemancingan-camphills
+album_A6E1B602_AB65_C118_41A3_FB2229CE6B5B.label = Photo Album goglestreet
+album_ACDEE58B_BA25_D2F0_41D3_D29525A350C2.label = Photo Album 35383293_231766300748650_3213265609110323200_n
+album_ACDEE58B_BA25_D2F0_41D3_D29525A350C2_0.label = 35383293_231766300748650_3213265609110323200_n
+album_ACDEE58B_BA25_D2F0_41D3_D29525A350C2_10.label = WhatsApp Image 2020-11-11 at 12.48.17 PM
+album_ACDEE58B_BA25_D2F0_41D3_D29525A350C2_12.label = WhatsApp Image 2020-11-11 at 12.48.19 PM
+album_ACDEE58B_BA25_D2F0_41D3_D29525A350C2_13.label = WhatsApp Image 2020-11-11 at 12.48.20 PM
+album_ACDEE58B_BA25_D2F0_41D3_D29525A350C2_14.label = WhatsApp Image 2020-11-11 at 12.48.21 PM
+album_ACDEE58B_BA25_D2F0_41D3_D29525A350C2_2.label = WhatsApp Image 2020-11-11 at 12.47.26 PM
+album_ACDEE58B_BA25_D2F0_41D3_D29525A350C2_5.label = WhatsApp Image 2020-11-11 at 12.48.01 PM
+album_ACDEE58B_BA25_D2F0_41D3_D29525A350C2_7.label = WhatsApp Image 2020-11-11 at 12.48.15 PM
+album_ACDEE58B_BA25_D2F0_41D3_D29525A350C2_9.label = WhatsApp Image 2020-11-11 at 12.48.17 PM (1)
+media_3F1BD3C6_B566_C719_41E2_B37217ED9F70.label = LAPANGAN CHILDRENPLAYGROUND
+panorama_A0AB2964_ABAA_4319_41DF_EAF0C8F0B647.label = Pemancingan Ikan
+panorama_A1A80757_ABAF_CF38_41E1_B9CCAC66D362.label = Toilet
+panorama_A1A81063_ABAF_C118_41D6_FEE2E06F9C2A.label = Toilet Pria
+panorama_A1A8156F_ABAF_C3E8_41CB_351CC80C0310.label = Tenda Pleton (20 orang)
+panorama_A1A81C64_ABAE_4118_41E0_C80B00C03301.label = Tenda Pleton (20 orang)
+panorama_A1A8214D_ABAE_4328_41D0_BBAAA0909C73.label = Tenda Standart (6 orang)
+panorama_A1A82A28_ABAE_4168_41D5_7468A65C0BC9.label = Tenda Standart (6 orang)
+panorama_A1A84C10_ABAE_C139_41C1_41F02C119AD2.label = taman Hobbit
+panorama_A1A87324_ABAE_4718_41CE_3AC6121ED3E8.label = Tenda Standart
+panorama_A1A879A3_ABAE_C318_41BA_AFFD5B7786BE.label = Area Wisata Curug Cigamea
+panorama_A1A87E4A_ABAF_C128_41D0_439985AB9771.label = Tenda Musollah
+panorama_A1A89590_ABAE_4338_41CB_63226D2108A6.label = Kolam Jepang
+panorama_A1A8C80F_ABAE_4127_41E1_15357B0349DE.label = Taman Selfie Park
+panorama_A1A8CBBF_ABAD_C768_41D6_E5D7C1709EE2.label = Kolam Jepang
+panorama_A1A8D705_ABAD_CF18_41C9_6CEA597F05D8.label = Lapangan Utama
+panorama_A1A8E8DD_ABAD_C128_41E3_18B352BA54D1.label = Arena Paint Ball
+panorama_A1A8EEBE_ABAE_4168_41E0_36828CD4E0D0.label = Taman Selfie Park
+panorama_A1A90270_ABAD_C1F8_41DC_D8346A3E1BA6.label = Perosotan Raksasa
+panorama_A1A90281_ABAA_4118_41D2_1A2EADB2B8F3.label = Logo Camp Hills
+panorama_A1A904CB_ABAD_C128_41DF_F8978983320E.label = Studio Alam Anak
+panorama_A1A90DF8_ABAD_C2E9_41E4_0B171591561F.label = Lapangan Belakang
+panorama_A1A92B9C_ABAA_4728_41E2_C4707F73423C.label = Jalan Menuju Camp Hills Farm
+panorama_A1A93023_ABAD_C118_41DA_9E60FDC355B8.label = Arena Paint Ball
+panorama_A1A94B08_ABAA_C728_41C0_ECF148D4C877.label = Menuju Perosotan Raksasa
+panorama_A1A971C6_ABAF_C318_41AF_D1942B7D850A.label = Toilet Wanita
+panorama_A1A9790D_ABAF_C328_41E2_869F21529E45.label = Tenda Standart (6 orang)
+panorama_A1A9A64F_ABAA_4128_41E1_AC0F790AF9C4.label = Jalan Menurun
+panorama_A1A9B3A0_ABAA_4718_41C5_6226563CAEEE.label = Jooging Track
+panorama_A1A9CD32_ABAA_4378_41B8_8345D1DAE5AD.label = Tenda Standart
+panorama_A1A9D067_ABAA_4118_41DE_CA97B6E0E764.label = Lapangan Olah Raga
+panorama_A1A9F983_ABAA_4318_4187_A7266EDD9C5B.label = Kolam Jepang & Taman Hobbit
+panorama_A1AAC712_ABAA_4F38_41D6_E1DC6CD5BDBE.label = Area Parkir
+panorama_A1AB34FD_ABAE_42E8_41C7_59B57410A1BA.label = Pintu Masuk Hutan Bambu
+panorama_A1AB57CD_ABAE_4F28_41E4_8BAA05A52668.label = Front Office
+panorama_A1AB5A2A_ABAE_4168_41D2_C2CFB8335A81.label = Restaurant Camp Hills
+panorama_A1AB7EA1_ABAE_4118_41D8_DDC45B50DA4C.label = Pintu Masuk Selfie Park
+panorama_A1AB82E3_ABAE_C118_41DA_5C723C03F672.label = Balon Udara
+panorama_A1AB8367_ABAE_4718_41DE_2BACF0D6A273.label = Restaurant Camp Hills
+panorama_A1AB9086_ABAE_C118_41AD_57BCFE9CFEBE.label = Taman Catur
+panorama_A1AB9562_ABAE_C318_41DF_3033A090658E.label = Cafe Camp Hills
+panorama_A1ABA779_ABAE_CFEB_41D0_DB016DD0BFEF.label = Taman Benteng
+panorama_A1ABAC64_ABAE_4118_41A5_C52E0C7684D2.label = Restaurant Camp Hills
+panorama_A1ABB0C9_ABAE_4128_41DB_EDCD2B1CD52A.label = Rest Area Jooging Track
+panorama_A1ABEE7D_ABAE_C1E8_41CD_82787C4ACB1D.label = Restaurant Camp Hills - Sky View
+panorama_A1B6103F_ABAA_4168_41E0_23906E00F9E2.label = Camp Hills Farm
+panorama_A1B615C0_ABAA_4318_41C6_71939DD9E9CB.label = Jalan Hutan Bambu
+panorama_A1B62B45_ABAB_C718_41CC_EB20E16DEF27.label = Aula Utama
+panorama_A1B6330F_ABAA_4728_41E0_F6A64699EC25.label = Sky View High
+panorama_A1B6497D_ABAA_43E8_419E_B99132EE7631.label = Sky View Point
+panorama_A1B64C3D_ABAA_4168_41DF_8ED137FE531F.label = Sky View Low
+panorama_A1B668F3_ABAA_42F8_41D9_24E51AD508E6.label = Hutan Camp Hills (on progress)
+panorama_A1B687E4_ABAA_CF18_4195_B8083C6FEC1E.label = Jalan Setapak menuju Curug
+panorama_A1B69514_ABAA_C338_41E0_8FC5C06D2A2D.label = Jalan Desa menuju Curug
+panorama_A1B6AF61_ABAA_5F18_41D0_045E3ACD2244.label = Hutan Camp Hills (on progress)
+panorama_A1B6B144_ABAA_C318_41E0_9438EEFD2024.label = Jalan Masuk
+panorama_A1B6CB92_ABAA_C738_41DD_E77E3CC84274.label = Taman Hutan Camp Hills
+panorama_A1B6D254_ABAA_C138_41D7_18401AC15266.label = Hutan Camp Hills (on progress)
+panorama_A1B6EE64_ABAA_C118_41B2_86B581E37FAA.label = Jalan Setapak menuju Curug
+panorama_A1B7B710_ABAB_CF38_41C6_AE38FC6F5D74.label = Camp Hills Farm
+panorama_A1B7C462_ABAB_C118_41D4_F021CDB7ABEF.label = Curug Cigamea
+panorama_A1B7D216_ABAB_C138_41C4_F619078C8EAF.label = Aula Belakang
+panorama_A1B7EDC2_ABAB_C318_41B7_CCCFD45F6173.label = Kolam Jepang
+panorama_A1B7F082_ABAB_C118_41E0_5E68E6F3581A.label = Selfie Park - Parkir
+panorama_F96F7ABA_B4A6_4169_41DB_7AD8D1BA0CF9.label = Jembatan Gantung
+photo_3E5EC793_B4A6_4F38_41CE_125A04BC0651.label = goglestreet
+photo_3E5EC793_B4A6_4F38_41CE_125A04BC0651.label = goglestreet
+photo_91707759_ADBE_4F28_41E2_6EA94B12B817.label = Painballs-at-camphills
+photo_944CF7C9_AD7B_CF28_41E0_62169DA659F3.label = aula01
+photo_9666E9D0_AD7A_C338_41D3_6D781A2CD0CD.label = aula2
+photo_A22AE2A3_B575_B66A_41D5_FF8BC5ABF3D9.label = WhatsApp-Image-2019-11-01-at-21.37.37
+photo_A94A0EBD_BB54_9871_41DC_0CB93FA4412D.label = WhatsApp Image 2020-11-11 at 12.46.51 PM
+photo_E8705642_ADFD_C118_41D2_117F916DA4AF.label = kolam 1
+photo_EF775A8F_ADFD_C128_41DC_018D0203282C.label = kolam 2
+photo_EF776E82_ADFD_C118_41D0_79E427675ACA.label = kolam
+video_E9C27552_ADFE_C338_41C2_FDFB1C296155.label = perang bantal
+video_FD42DB14_B4AA_C738_41C5_24065CFAA3C1.label = becak terbang
+
+## Popup
+
+### Body
+htmlText_23463444_B4AA_4118_41C7_E2CB27469BCF.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Becak Terbang</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">adalah wahana di Selfie Park yang menantang untuk dicoba. Anda dapat menaiki Becak di atas tambang sehingga mendapatkan sensasi terbang yang menantang.</SPAN></DIV></BODY></HTML></div>
+htmlText_91FE0749_ADA6_4F28_41CB_92A13356D121.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Lapangan Belakang</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Area terbuka yang dapat digunakan untuk kegiatan Api Unggun atau Acara Kebersamaan lainnya. Dilengkapi dengan undakan tangga layaknya auditorium alam terbuka untuk menampung peserta mencapai 100 orang.</SPAN></DIV></BODY></HTML></div>
+htmlText_9262B3DF_ADA6_C728_41C2_AA86379DBE16.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Arena Paint Ball</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Area dengan nuansa hutan cocok untuk menjadi tempat pertarungan permainan perang dengan menggunakan senjata Paint Ball dan pakaian perlindungan diri. Nikmati suasana seru bersama teman-teman.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV></BODY></HTML></div>
+htmlText_9271E4A5_ADBE_4118_41DC_DE5A29FC5182.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Arena Paint Ball</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Area dengan nuansa hutan cocok untuk menjadi tempat pertarungan permainan perang dengan menggunakan senjata Paint Ball dan pakaian perlindungan diri. Nikmati suasana seru bersama teman-teman.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV></BODY></HTML></div>
+htmlText_94E906B3_AD6A_4178_41E2_62919F72CDBC.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Aula Utama Camp Hills</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Ruang Serbaguna yang dapat menampung 100 orang dengan nuansa terbuka menyatu dengan alam pegunungan. Dilengkapi dengan Sound System dan TV dan Projector untuk mendukung kegiatan mulai dari Family Gathering, Reuni Sekolah, Children Fun games, Seminar, Rapat dan lain sebagainya.</SPAN></DIV></BODY></HTML></div>
+htmlText_A1722F3C_B555_4E5F_41D4_24A427FABEBD.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Kolam Renang Anak</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Arena Bermain Air untuk anak dan dewasa dengan kedalaman 80 cm yang dapat digunakan untuk berbagai aktifitas mulai dari arena bermain air anak, perang bantal dan aktifitas air lainnya.</SPAN></DIV></BODY></HTML></div>
+htmlText_A1EF45DB_B55C_DDDA_41B2_1D80AB4D689E.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Kolam Pemancingan Ikan</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Wahana santai menikmati hari dengan kegiatan outdoor memancing yang nyaman untuk keluarga. </SPAN></DIV></BODY></HTML></div>
+htmlText_D437B2BC_B4A7_C168_41DC_EE6BDEC8BAA8.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Becak Terbang</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">adalah wahana di Selfie Park yang menantang untuk dicoba. Anda dapat menaiki Becak di atas tambang sehingga mendapatkan sensasi terbang yang menantang.</SPAN></DIV></BODY></HTML></div>
+htmlText_E9BE13EF_ADEA_C6E8_41E5_012F6CDB8AA3.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Kolam Renang Anak</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Arena Bermain Air untuk anak dan dewasa dengan kedalaman 80 cm yang dapat digunakan untuk berbagai aktifitas mulai dari arena bermain air anak, perang bantal dan aktifitas air lainnya.</SPAN></DIV></BODY></HTML></div>
+htmlText_EE94F83E_ADA6_C168_41E1_E41DB882994A.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Restaurant Camp Hills</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Terletak di Jalan Gunung Picung yang dapat diakses dari dalam Resort Camph Hills. Terdapat area restaurant dengan Sky View yang dapat melihat keindahan pemandangan gunung Salak. </SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV></BODY></HTML></div>
+htmlText_FBCD0B4D_B4AE_C728_41E1_7E5F4D51ECDB.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Becak Terbang</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">adalah wahana di Selfie Park yang menantang untuk dicoba. Anda dapat menaiki Becak di atas tambang sehingga mendapatkan sensasi terbang yang menantang.</SPAN></DIV></BODY></HTML></div>
+
+### Title
+window_A7F43AB9_B54C_F659_41E2_4E5CE4A6E066.title = Aula Utama Camp Hills
+window_A93153E6_B553_55EA_41DD_0E96D6084357.title = Kolam Renang Anak
+window_A95CBFD0_BB53_980F_41C0_8BE8EC526CD3.title = Becak Terbang
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_10DE0C06_B4A6_4119_41E2_FAD116109B5D.toolTip = Menuju Hutan Camp Hills
+HotspotPanoramaOverlayArea_16822B5D_B766_C728_41E3_D2AA95D1D3A3.toolTip = Toilet
+HotspotPanoramaOverlayArea_172A3B63_B49A_C718_41D0_6BCF338DB08A.toolTip = Aula Utama
+HotspotPanoramaOverlayArea_178C875F_B77A_4F28_41E2_7C0E5677B910.toolTip = Menuju Lapangan Utama
+HotspotPanoramaOverlayArea_18465875_B4A7_C1F8_41E4_91E119EC3139.toolTip = Studio Alam Anak
+HotspotPanoramaOverlayArea_193A262B_B77A_4168_41BD_1767BDBA2E5B.toolTip = Toilet
+HotspotPanoramaOverlayArea_1B435ED1_B76E_4138_41D8_BFC44DC09D24.toolTip = Tenda Standart Camp Hills
+HotspotPanoramaOverlayArea_1D13F9BD_B77A_C368_41E4_CFFC52F96FD7.toolTip = Menuju Lapangan Belakang
+HotspotPanoramaOverlayArea_218FBD4B_B5A6_C328_41E4_DF5A1B22BF97.toolTip = Aula Utama
+HotspotPanoramaOverlayArea_255EEF35_B4E6_FF78_41E3_BD9E852BC9F0.toolTip = Menuju Curug Cigamea
+HotspotPanoramaOverlayArea_2652837E_B4EA_47E8_41D5_8BC0CE7F4FAE.toolTip = Kembali ke Camp Hills
+HotspotPanoramaOverlayArea_26A12CF3_B4E7_C2F8_41BF_FEF53D53162F.toolTip = Kembali ke Camp Hills
+HotspotPanoramaOverlayArea_27BB9C42_B4EA_4118_41E5_A7512047DF1B.toolTip = Menuju Curug Cigamea
+HotspotPanoramaOverlayArea_290E5726_B4EA_4F18_41C4_4F88796C7AA7.toolTip = Menuju Curug Cigamea
+HotspotPanoramaOverlayArea_29602730_B4E6_4F78_41D5_1A44392DC406.toolTip = Menuju Taman Selfie Park
+HotspotPanoramaOverlayArea_29B03593_B4E6_C338_41CA_C5F159E3B1CE.toolTip = Kembali ke Camp Hills
+HotspotPanoramaOverlayArea_2B387B15_B4FB_C738_41E5_698DF19172F3.toolTip = Menuju Curug Cigamea
+HotspotPanoramaOverlayArea_2BF820A2_B4FE_C119_41D1_9837C700A680.toolTip = Jalan Desa Menuju Curug
+HotspotPanoramaOverlayArea_2D23EA13_B4E7_C138_41D6_74F896917E20.toolTip = Tangga Masuk/Keluar Selfi Park
+HotspotPanoramaOverlayArea_2E7B48E0_B4E5_C118_41E4_A056EB0A3568.toolTip = Pintu Masuk/Keluar Selfi Park
+HotspotPanoramaOverlayArea_326F0ADA_B5AF_C128_41E0_9688641DA385.toolTip = Menuju Area Parkir
+HotspotPanoramaOverlayArea_3678212F_B5A6_4368_41CC_3EFE0537644B.toolTip = Menuju Kolam Jepang
+HotspotPanoramaOverlayArea_36AB6923_B5A6_C318_41C1_7348576860B0.toolTip = Menuju Tenda Camp Hills
+HotspotPanoramaOverlayArea_37D9F876_B5AA_C1F8_41D2_43B150123A28.toolTip = Cafe Camp Hills
+HotspotPanoramaOverlayArea_388B5D9D_B5AA_4328_41C5_4CEBFF8AAC4A.toolTip = Menuju Hutan Camp Hills
+HotspotPanoramaOverlayArea_391118F0_B5AE_C2F9_41E3_A72F68F7224B.toolTip = Front Office
+HotspotPanoramaOverlayArea_3A18B5C2_B5AE_4318_41DE_5944740B5527.toolTip = Restaurant Camp Hills
+HotspotPanoramaOverlayArea_3A737D24_B59A_4318_41B0_D29602EF3748.toolTip = Sky View Restaurant Camp Hills
+HotspotPanoramaOverlayArea_3A7556A1_B5BA_C118_41D4_48BBE8CCC416.toolTip = Menuju Lapangan Utama
+HotspotPanoramaOverlayArea_3BD26144_B59E_4318_41E2_30E007C9C494.toolTip = Menuju kembali ke Studi Alam Anak
+HotspotPanoramaOverlayArea_3D2AAE87_B566_C127_41D1_DE02DB7C05D4.toolTip = Studio Alam Anak
+HotspotPanoramaOverlayArea_3F1EFAFA_B566_46E8_41CA_A10DC1EBA08C.toolTip = Tasman Hutan Camp Hills
+HotspotPanoramaOverlayArea_8CA3E5B9_ACAD_C368_41C3_1CC3A60A476F.toolTip = Menuju Taman Hobbit
+HotspotPanoramaOverlayArea_900BE5C6_ADA7_C318_41AE_9BE33786A94F.toolTip = Jogging Track
+HotspotPanoramaOverlayArea_909A8666_ADA6_4118_41C0_D9192F06ABD8.toolTip = Arena Paint Ball
+HotspotPanoramaOverlayArea_90DBA046_ADBE_4118_413E_15C8BB0AA114.toolTip = Arena Paint Ball
+HotspotPanoramaOverlayArea_90E78BDC_ADAA_4728_41E2_EF6E296594A1.toolTip = Kolam Pemancingan Ikan
+HotspotPanoramaOverlayArea_91634839_ADAA_4168_41E5_67CCBB5ACF7F.toolTip = Aula Belakang
+HotspotPanoramaOverlayArea_916A8367_ADAA_C718_41D3_275073C58FAE.toolTip = Menuju Sky View
+HotspotPanoramaOverlayArea_9274700A_ADA5_C128_41C4_4461A66841F3.toolTip = Menuju Arena Paint Ball
+HotspotPanoramaOverlayArea_9310BB0D_ADAE_4728_41CF_1277C27BA56D.toolTip = Tenda Camp Hills
+HotspotPanoramaOverlayArea_93669863_ADAA_C118_41E0_15A38717A944.toolTip = Pintu Masuk/Keluar
+HotspotPanoramaOverlayArea_94448B53_AD7E_4738_41E4_C83725FA3130.toolTip = Tenda Pleton
+HotspotPanoramaOverlayArea_94CFF798_AD7D_CF28_41B2_5E6956F7AFF6.toolTip = Aula Belakang
+HotspotPanoramaOverlayArea_956D1620_AD7A_C118_41E0_FEB0A8ADB1E5.toolTip = Menuju Sky View
+HotspotPanoramaOverlayArea_96BA0327_AD9E_4718_41A1_52841396899F.toolTip = Tenda Musollah
+HotspotPanoramaOverlayArea_97590C92_ADA6_C138_41C3_395D6AFF24EE.toolTip = Lapangan Belakang
+HotspotPanoramaOverlayArea_97EC62D3_AD9A_4138_41E3_012C3C969929.toolTip = Tenda Pleton
+HotspotPanoramaOverlayArea_98055F24_ACA6_BF18_41DE_77E53E8883C3.toolTip = Lapangan Sepakbola
+HotspotPanoramaOverlayArea_986C13F3_ACAA_46F8_41DD_AFCB6920ED67.toolTip = Menuju Lapangan Utama
+HotspotPanoramaOverlayArea_998A5812_ACAD_C138_41E1_264E2F76CE81.toolTip = Front Office
+HotspotPanoramaOverlayArea_99A7726B_ACAE_41E8_41D3_E644F3E40B07.toolTip = Cafe Camp Hills
+HotspotPanoramaOverlayArea_9A67EF57_ACAA_5F38_41E5_3121B2404817.toolTip = Pemancingan Ikan
+HotspotPanoramaOverlayArea_9A79C327_ACA6_4718_41A9_DBF0319AD710.toolTip = Menuju Lapangan Belakang
+HotspotPanoramaOverlayArea_9B956821_AD65_C118_41E1_23CBCEBBC2EA.toolTip = Aula Utama
+HotspotPanoramaOverlayArea_9D6E38A3_AC9A_4118_41E1_86EC7C54C09E.toolTip = Menuju Aula Utama
+HotspotPanoramaOverlayArea_9D807AD8_ACA6_4128_41E1_29760515F339.toolTip = Menuju Hutan Camp Hills
+HotspotPanoramaOverlayArea_9E3C89A0_ACAB_C318_4188_22E8C73FF6B8.toolTip = Menuju Taman Jepang
+HotspotPanoramaOverlayArea_9F646DE5_ACAF_C318_41D8_69CA34F4E2E5.toolTip = Play Video360
+HotspotPanoramaOverlayArea_A325617A_B555_52DA_41B4_5D510E15FD92.toolTip = Tenda Standart
+HotspotPanoramaOverlayArea_A4184E1C_AB6A_4128_41C4_97786EDB7BB1.toolTip = Menuju Camp Hills
+HotspotPanoramaOverlayArea_A4974C8F_B54F_5239_41E0_3873BF080F33.toolTip = Area Parkir
+HotspotPanoramaOverlayArea_ACD683DD_BA2A_D611_41A8_6168408BC2AE.toolTip = Selfie Wall
+HotspotPanoramaOverlayArea_AD0E33DB_B57C_D5DA_41E4_67673EAC23B3.toolTip = Kembali ke Lapangan Belakang
+HotspotPanoramaOverlayArea_AD4501B4_B57F_B26E_41B9_A703A5DED04A.toolTip = Menuju Selfie Park
+HotspotPanoramaOverlayArea_AF463670_B54D_5EE6_41C7_ED8CCEC8E9DF.toolTip = Taman Benteng
+HotspotPanoramaOverlayArea_B1EC537D_ACA6_47EB_41CF_E9302D89B4CA.toolTip = Menuju Taman Hobbit
+HotspotPanoramaOverlayArea_B2D7C4D9_ACAA_C128_41C9_B9FD939684DE.toolTip = Menuju Camp Hills Farm
+HotspotPanoramaOverlayArea_B37A9D9E_ACAE_C328_41E2_A10A8CA06CF6.toolTip = Kembali ke Aula Utama
+HotspotPanoramaOverlayArea_B3A6A63A_ACAE_4168_41B5_871AA386EB83.toolTip = Dermaga Kolam Jepang
+HotspotPanoramaOverlayArea_B982C411_AB66_C138_41CB_6350D3C45128.toolTip = Pintu Masuk/Keluar
+HotspotPanoramaOverlayArea_B9CF08D1_AB6A_C138_41D2_D5439ECB8FE0.toolTip = Menuju Taman Jepang
+HotspotPanoramaOverlayArea_BA6D98F5_AB6E_42F8_41C2_BEC8047400CA.toolTip = RUTE KE JAKARTA
+HotspotPanoramaOverlayArea_BB183774_AB6E_4FF8_418F_B1ED42ABBE67.toolTip = RUTE KE PUNCAK
+HotspotPanoramaOverlayArea_BB619468_AB6A_41E8_41B1_36E6B9E6DF42.toolTip = Menuju Aula Utama
+HotspotPanoramaOverlayArea_BF235EC1_AC9A_4118_41D5_9152AEC16A85.toolTip = Kembali ke Jalan Gunung Picung
+HotspotPanoramaOverlayArea_C04A65B2_B4A6_4378_41DA_F89AD76B165A.toolTip = Menuju Restaurant Camp Hills
+HotspotPanoramaOverlayArea_C221E018_B49E_4128_41D8_F17380C2EC45.toolTip = Restaurant Camp Hills
+HotspotPanoramaOverlayArea_C2C09C07_B49E_4127_41D7_2835EBF96A18.toolTip = Sky View Restaurant
+HotspotPanoramaOverlayArea_C30C27D5_B49A_CF38_41DD_A950243F2B2A.toolTip = Menuju Kolam Jepang
+HotspotPanoramaOverlayArea_C3F86312_B49A_C738_41CF_76D97A81347F.toolTip = Menuju Jalan Gunung Picung
+HotspotPanoramaOverlayArea_C5366141_B56A_C318_41D8_BFA51B6764B6.toolTip = Curug Cigamea
+HotspotPanoramaOverlayArea_C54EE73C_B56D_CF68_41C7_4F690FE169C8.toolTip = Kembali ke Camp Hills
+HotspotPanoramaOverlayArea_C760F8BA_B56A_C168_41C0_0DBE067A2BC2.toolTip = Restaurant Camp Hills
+HotspotPanoramaOverlayArea_C8CF40FC_B565_C2E8_41E5_25FF3DBBF124.toolTip = Sky View Restaurant
+HotspotPanoramaOverlayArea_CAED7D12_B566_4338_4185_E15E20A641F5.toolTip = Cafe Camp Hills
+HotspotPanoramaOverlayArea_D0092F3E_B49F_DF68_41D4_857084ADF14B.toolTip = Camp Hills Farm
+HotspotPanoramaOverlayArea_D04ECB61_B49D_C718_41CF_021D919BA239.toolTip = Aula Utama
+HotspotPanoramaOverlayArea_D07CFCCC_B4EA_4128_41E1_CEFBF8D4F0CF.toolTip = Sky View
+HotspotPanoramaOverlayArea_D16CAB45_B49A_C718_41C5_101B5C20550E.toolTip = Kembali ke Lapangan Belakang
+HotspotPanoramaOverlayArea_D1EAD34A_B4A6_4728_41DB_51E02B72DE0E.toolTip = Becak Terbang
+HotspotPanoramaOverlayArea_D335B8A6_B4AB_C118_41D7_E620BF86E0AD.toolTip = Menuju Perosotan dan Jembatan Gantung
+HotspotPanoramaOverlayArea_D4C644AB_B4A6_4168_41E2_68ED3E9A9EEF.toolTip = Tangga Panggung Sky View
+HotspotPanoramaOverlayArea_D4F2B476_B4AE_41F8_41D9_3B352BE90BF8.toolTip = Parkir Selfie Park
+HotspotPanoramaOverlayArea_D53F7927_B4AA_4318_41C2_26967A2073D7.toolTip = Menuju Perosotan
+HotspotPanoramaOverlayArea_D69A9657_B4AA_4138_41D8_EA769F44B07C.toolTip = Taman Selfie Park
+HotspotPanoramaOverlayArea_D9A8DACE_B4BF_C128_41DC_C7494D25FF69.toolTip = Menuju Aula Utama
+HotspotPanoramaOverlayArea_DA26F534_B4BA_4378_41E4_D4AA2933CE3A.toolTip = Balon Udara
+HotspotPanoramaOverlayArea_DA8F9C21_B4A6_4118_41C6_2E3187A8E6ED.toolTip = Menuju Balon Udara
+HotspotPanoramaOverlayArea_DAD1334C_B4BA_4729_41D8_78BDDCD3023D.toolTip = Pemancingan Ikan
+HotspotPanoramaOverlayArea_DBA1800E_B4BA_C128_41DB_70684ACF6C12.toolTip = Jembatan Gantung
+HotspotPanoramaOverlayArea_DC39AB30_B4AA_4778_41D1_9466D2F99D2D.toolTip = Tenda Camp Hills
+HotspotPanoramaOverlayArea_DD79ED52_B4AF_C338_41D6_6D6CF162D3BF.toolTip = Naik Menuju Taman Selfie Park
+HotspotPanoramaOverlayArea_E43099EA_B4EA_42E8_41CB_AF9C642B9D69.toolTip = Cafe Camp Hills
+HotspotPanoramaOverlayArea_E477294C_B4E6_4329_41D8_C8FC12DCEE15.toolTip = Menuju Sky View
+HotspotPanoramaOverlayArea_E59A11A0_AB66_4318_41A4_6C170999B0F8.toolTip = Menuju Perosotan Selfie Park
+HotspotPanoramaOverlayArea_E653B7B2_AB66_CF78_41DE_E13CCC206D52.toolTip = Menuju Selfie Park & Curug
+HotspotPanoramaOverlayArea_E7C6C96E_B4FA_C3E8_41C5_B869020C2F38.toolTip = Tenda Musollah
+HotspotPanoramaOverlayArea_E7FC77C5_B4FA_CF18_41D9_288B383041F0.toolTip = Aula Belakang
+HotspotPanoramaOverlayArea_E84D0F99_ADFA_BF28_41BA_5068D58467CE.toolTip = Front Office
+HotspotPanoramaOverlayArea_E85FBD7B_AB6A_C3E8_4176_C09555FE8E3B.toolTip = Menuju Hutan Bambu
+HotspotPanoramaOverlayArea_E8B1AF8E_ADEA_FF28_41E0_1D87D519CFF0.toolTip = Tangga Menuju Sky View Restaurant
+HotspotPanoramaOverlayArea_E9292240_B4FE_4118_41D5_877B7611211D.toolTip = Hutan Bambu
+HotspotPanoramaOverlayArea_E958B5AC_ADE7_C368_41E5_36E5C35D1363.toolTip = Aula Utama
+HotspotPanoramaOverlayArea_E9BE086C_B4FA_C1E8_41D6_15B7E0C289B3.toolTip = Menuju Selfie Park
+HotspotPanoramaOverlayArea_EA2C1D63_ADFA_C318_41D1_4989EAC683F0.toolTip = Studio Alam Anak
+HotspotPanoramaOverlayArea_EC0CCB37_B4EE_4778_41CC_5BA3577AFB93.toolTip = Tenda Pleton
+HotspotPanoramaOverlayArea_EC3900FB_B4EA_42E8_41DA_ADC3D8BF0066.toolTip = Pintu Masuk/Keluar
+HotspotPanoramaOverlayArea_ECBC6BEA_B4EF_C6E8_41C1_0B86663A3D7F.toolTip = Tenda Musollah
+HotspotPanoramaOverlayArea_ED39D5F6_ADE5_C2F8_41B6_0B366C6B8CA9.toolTip = Restaurant Camp Hills
+HotspotPanoramaOverlayArea_ED5207F9_B4EE_4EE8_41B3_327C6F8DE7F5.toolTip = Hutan Bambu
+HotspotPanoramaOverlayArea_EE24FE23_ADA5_C118_41E0_3527685FF182.toolTip = Restaurant Camp Hills
+HotspotPanoramaOverlayArea_EE501830_B4E6_4178_41E2_3EA20871F8C3.toolTip = Kembali ke Camp Hills
+HotspotPanoramaOverlayArea_EF7D13B3_B4E6_4778_41E0_E8D0B3E67276.toolTip = Cafe Camp Hills
+HotspotPanoramaOverlayArea_EF99B46D_ADEF_C1E8_41C9_0C88F008D2FF.toolTip = Jalan Gunung Picung
+HotspotPanoramaOverlayArea_EFC014B4_B49A_4178_41D1_7D0CD3E683FC.toolTip = Area Parkir
+HotspotPanoramaOverlayArea_EFC79966_B49B_C318_41CA_E665B6691B93.toolTip = Restaurant Camp Hills
+HotspotPanoramaOverlayArea_F89C8619_B49A_4128_41C0_8F6CD803A37B.toolTip = Jembatan Gantung
+HotspotPanoramaOverlayArea_FA23B14C_B4AA_4328_41BF_9E0F74635CA5.toolTip = Jalan Tangga Perosotan
+HotspotPanoramaOverlayArea_FA52FF4F_B4AE_FF28_41DE_5B6BD71BFD65.toolTip = Curug Cigamea
+HotspotPanoramaOverlayArea_FCBEECD5_B4BA_C138_41E3_97367AA652D0.toolTip = taman Perosotan
+HotspotPanoramaOverlayArea_FE1F69EE_B4A7_C2E8_4184_0D8CC41330D6.toolTip = Sky View Curug
+HotspotPanoramaOverlayArea_FE5C39AB_B4AA_4368_41C2_CD3E2553A7EC.toolTip = Pintu Keluar/Masuk
+HotspotPanoramaOverlayArea_FF838566_B4AA_C318_41A8_A449D7FF3058.toolTip = Pintu Masuk/Keluar

